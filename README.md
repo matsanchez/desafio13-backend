@@ -8,8 +8,10 @@
 
 ### Ejecutar el proyecto:
 
-Para ejecutar el proyecto, el mismo puede descargarse como .zip o git clone
-[Clic aqui para clonar](https://github.com/matsanchez/desafio13-backend.git)
+Para ejecutar el proyecto, el mismo puede descargarse como .zip o git clone.
+
+[Clic aqui para descargar repo formato zip](https://github.com/matsanchez/desafio13-backend/archive/refs/heads/main.zip)
+Copiar y pegar en la terminal : git clone https://github.com/matsanchez/desafio13-backend.git
 
 > Instalar las dependencias:
 
